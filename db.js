@@ -5,7 +5,7 @@ module.exports = new Sequelize(
   "pirate", // имя пользователя
   "suvDcWTMAVyB", // пароль
   {
-    host: "master.36009046-78b0-4a16-8ea6-2cf4bd5ec58a.c.dbaas.selcloud.ru",
+    host: "192.168.0.26",
     port: "5432",
     dialect: "postgres",
   }
